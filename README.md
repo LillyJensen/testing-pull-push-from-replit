@@ -1,7 +1,7 @@
 # testing-pull-push-from-replit
-#another-git-workshop
+# another-git-workshop
 
-#This is Git Hub
+# This is Git Hub
 
 - Bullet 1
 - Bullet 2 
